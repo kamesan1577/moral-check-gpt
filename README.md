@@ -8,7 +8,7 @@ AI-MOP 上での使用を想定しています
 
 ## 使用方法
 
-https://scenex.jina.ai/にアクセスして、APIキーを取得(※めんどくさかったらkamesanに聞いてください)
+https://scenex.jina.ai/ にアクセスして、API キーを取得(※めんどくさかったら kamesan に聞いてください)
 後述のターミナル上での設定を行った後、
 main.ipynb を jupyter notebook 上で実行してください(オーナーは VSCode 上で動かしてるので動かなかったらごめん)
 
