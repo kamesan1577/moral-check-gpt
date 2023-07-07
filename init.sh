@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 if [ -n "$INIAD_OPENAI_API_KEY" ]; then
     echo $INIAD_OPENAI_API_KEY > ./key.secret
 fi
